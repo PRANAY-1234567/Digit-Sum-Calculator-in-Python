@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 
+
 This project is a simple Python program that calculates the **sum of the digits** of a given positive integer.
 
 The program repeatedly extracts the last digit of the number using the modulus (`%`) operator, adds it to a running total, and removes the last digit using integer division (`//`) until the number becomes zero.
